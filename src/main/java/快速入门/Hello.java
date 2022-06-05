@@ -1,4 +1,4 @@
-package Java_快速入门;
+package 快速入门;
 
 //这是java的快速入门,演示java的开发步骤
 

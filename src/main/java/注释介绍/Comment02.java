@@ -1,4 +1,4 @@
-package Java_注释介绍;
+package 注释介绍;
 
 //文档注释
 

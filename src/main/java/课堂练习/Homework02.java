@@ -1,4 +1,4 @@
-package homework;
+package 课堂练习;
 
 //将个人的基本信息(姓名,性别,籍贯,住址)打印到控制台上输出。各条信息分别占一行
 public class Homework02 {

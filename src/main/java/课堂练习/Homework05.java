@@ -1,4 +1,4 @@
-package homework;
+package 课堂练习;
 
 public class Homework05 {
 

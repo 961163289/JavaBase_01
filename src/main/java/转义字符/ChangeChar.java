@@ -1,4 +1,4 @@
-package Java_转义字符;
+package 转义字符;
 
 //演示转义字符的使用
 public class ChangeChar {
